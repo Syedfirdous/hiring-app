@@ -1,4 +1,3 @@
-Docker file
 FROM tomcat:8.0.20-jre8
 # Define environment variables for Nexus repository and the artifact to download
 ENV NEXUS_REPO_URL="http://http://18.183.171.233:8081/repository/hiringapp/"
